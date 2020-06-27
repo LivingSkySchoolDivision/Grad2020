@@ -1,139 +1,801 @@
 {
-	"graduates" : [
-		{"name":"Dummie Abdul", "image":"DummieAbdul", "slides":"2", "quote":""},
-		{"name":"Graham Adamcryck", "image":"GrahamAdamcryck", "slides":"2", "quote":""},
-		{"name":"Keegan Agema-Doiron", "image":"KeeganAgema-Doiron", "slides":"2", "quote":""},
-		{"name":"Harold Alcantara", "image":"HaroldAlcantara", "slides":"2", "quote":""},
-		{"name":"Jecamie Amos", "image":"JecamieAmos", "slides":"2", "quote":""},
-		{"name":"Uthman Amusat", "image":"UthmanAmusat", "slides":"2", "quote":""},
-		{"name":"Tayte Antoine", "image":"TayteAntoine", "slides":"1", "quote":""},
-		{"name":"Melyna Bahler", "image":"MelynaBahler", "slides":"2", "quote":""},
-		{"name":"Braden Baier", "image":"BradenBaier", "slides":"2", "quote":""},
-		{"name":"Brianna Barth", "image":"BriannaBarth", "slides":"2", "quote":""},
-		{"name":"Brooklyn Bartkewich", "image":"BrooklynBartkewich", "slides":"2", "quote":""},
-		{"name":"Ethan Bartko", "image":"EthanBartko", "slides":"2", "quote":""},
-		{"name":"Ferdinand Bezuidenhout", "image":"FerdinandBezuidenhout", "slides":"1", "quote":""},
-		{"name":"Faith Bird", "image":"FaithBird", "slides":"2", "quote":""},
-		{"name":"Darcy Black", "image":"DarcyBlack", "slides":"2", "quote":""},
-		{"name":"Nicholas Black", "image":"NicholasBlack", "slides":"1", "quote":""},
-		{"name":"Riley Black", "image":"RileyBlack", "slides":"2", "quote":""},
-		{"name":"Parker Blais", "image":"ParkerBlais", "slides":"1", "quote":""},
-		{"name":"Joseph Bowen", "image":"JosephBowen", "slides":"1", "quote":""},
-		{"name":"Chloe Brown-Delainey", "image":"ChloeBrown-Delainey", "slides":"2", "quote":""},
-		{"name":"Logan Bru", "image":"LoganBru", "slides":"2", "quote":""},
-		{"name":"A.J. Bueckert", "image":"AJBueckert", "slides":"1", "quote":""},
-		{"name":"Madison Butler", "image":"MadisonButler", "slides":"2", "quote":""},
-		{"name":"Alexandra Chmelnyk", "image":"AlexandrChmelnyk", "slides":"2", "quote":""},
-		{"name":"Kiara Clarke", "image":"KiaraClarke", "slides":"2", "quote":""},
-		{"name":"Bailey Cole", "image":"BaileyCole", "slides":"2", "quote":""},
-		{"name":"Logan Cook", "image":"LoganCook", "slides":"2", "quote":""},
-		{"name":"Jolene Cooke", "image":"JoleneCooke", "slides":"2", "quote":""},
-		{"name":"Skyler Dimmick", "image":"SkylerDimmick", "slides":"2", "quote":""},
-		{"name":"Adam Elefson", "image":"AdamElefson", "slides":"2", "quote":""},
-		{"name":"Liam Elias", "image":"LiamElias", "slides":"2", "quote":""},
-		{"name":"Ashlyn Elmer", "image":"AshlynElmer", "slides":"2", "quote":""},
-		{"name":"Lexi Falcon", "image":"LexiFalcon", "slides":"2", "quote":""},
-		{"name":"Luke Fennig", "image":"LukeFennig", "slides":"2", "quote":""},
-		{"name":"Keanu Foulds", "image":"KeanuFoulds", "slides":"2", "quote":""},
-		{"name":"Madisyn Gardiner", "image":"MadisynGardiner", "slides":"2", "quote":""},
-		{"name":"Sheanta Gardypie", "image":"SheantaGardypie", "slides":"2", "quote":""},
-		{"name":"Naomi Gartner", "image":"NaomiGartner", "slides":"2", "quote":""},
-		{"name":"Tanner Gartner", "image":"TannerGartner", "slides":"2", "quote":""},
-		{"name":"Brandon Girward", "image":"BrandonGirward", "slides":"2", "quote":""},
-		{"name":"Charles Girward", "image":"CharlesGirward", "slides":"2", "quote":""},
-		{"name":"Elle Goodstriker", "image":"ElleGoodstriker", "slides":"2", "quote":""},
-		{"name":"Dustin Grasby", "image":"DustinGrasby", "slides":"2", "quote":""},
-		{"name":"Kjersti Graupe", "image":"KjerstiGraupe", "slides":"2", "quote":""},
-		{"name":"Cody Greening ", "image":"CodyGreening", "slides":"2", "quote":""},
-		{"name":"Kaibree Head", "image":"KaibreeHead", "slides":"2", "quote":""},
-		{"name":"Damon Herbel", "image":"DamonHerbel", "slides":"1", "quote":""},
-		{"name":"Carlie Hornsby", "image":"CarlieHornsby", "slides":"2", "quote":""},
-		{"name":"Mya Huber", "image":"MyaHuber", "slides":"2", "quote":""},
-		{"name":"Dustin Jensen-Kress ", "image":"DustinJensen-Kress", "slides":"2", "quote":""},
-		{"name":"Mariah Johansson", "image":"MariahJohansson", "slides":"2", "quote":""},
-		{"name":"Drew Karlson", "image":"DrewKarlson", "slides":"2", "quote":""},
-		{"name":"Colby Kellgren", "image":"ColbyKellgren", "slides":"2", "quote":""},
-		{"name":"Scott Klippenstein", "image":"ScottKlippenstein", "slides":"2", "quote":""},
-		{"name":"Corey Koliniak", "image":"CoreyKoliniak", "slides":"2", "quote":""},
-		{"name":"Denis Kolosnjaji", "image":"DenisKolosnjaji", "slides":"2", "quote":""},
-		{"name":"Ryleigh Kramer", "image":"RyleighKramer", "slides":"2", "quote":""},
-		{"name":"Youngseo Kwon", "image":"YoungseoKwon", "slides":"1", "quote":""},
-		{"name":"Madison Lafreniere", "image":"MadisonLafreniere", "slides":"2", "quote":""},
-		{"name":"Hannah Lapawchuk", "image":"HannahLapawchuk", "slides":"2", "quote":""},
-		{"name":"Chloe Lavallee", "image":"ChloeLavallee", "slides":"2", "quote":""},
-		{"name":"Cheney Legacy", "image":"CheneyLegacy", "slides":"2", "quote":""},
-		{"name":"Erik Loken", "image":"ErikLoken", "slides":"2", "quote":""},
-		{"name":"Keltyn Lozowchuk", "image":"KeltynLozowchuk", "slides":"2", "quote":""},
-		{"name":"Colten Macnaughton", "image":"ColtenMacnaughton", "slides":"2", "quote":""},
-		{"name":"Ishita Mann", "image":"IshitaMann", "slides":"2", "quote":""},
-		{"name":"Julia Marjoram", "image":"JuliaMarjoram", "slides":"2", "quote":""},
-		{"name":"Neil Mata", "image":"NeilMata", "slides":"2", "quote":""},
-		{"name":"Mason McDonald", "image":"MasonMcDonald", "slides":"2", "quote":""},
-		{"name":"Brandt Mcmillan", "image":"BrandtMcmillan", "slides":"1", "quote":""},
-		{"name":"Jodie Mcwatters", "image":"JodieMcwatters", "slides":"2", "quote":""},
-		{"name":"Abagail Millard", "image":"AbagailMillard", "slides":"2", "quote":""},
-		{"name":"Elizabeth Millard ", "image":"ElizabethMillard", "slides":"2", "quote":""},
-		{"name":"Caelan Milley", "image":"CaelanMilley", "slides":"2", "quote":""},
-		{"name":"Mckenna Mitchell", "image":"MckennaMitchell", "slides":"2", "quote":""},
-		{"name":"Hadia Mohammad", "image":"HadiaMohammad", "slides":"2", "quote":""},
-		{"name":"Jacob Nachtegaele", "image":"JacobNachtegaele", "slides":"2", "quote":""},
-		{"name":"Connor Neave", "image":"ConnorNeave", "slides":"2", "quote":""},
-		{"name":"Elishia Netmaker ", "image":"ElishiaNetmaker", "slides":"2", "quote":""},
-		{"name":"Abbey Neufeld", "image":"AbbeyNeufeld", "slides":"2", "quote":""},
-		{"name":"Kate Nichol", "image":"KateNichol", "slides":"2", "quote":""},
-		{"name":"Haley Opikokew", "image":"HaleyOpikokew", "slides":"1", "quote":""},
-		{"name":"Rory Ouellette", "image":"RoryOuellette", "slides":"2", "quote":""},
-		{"name":"Hannah Oxebin", "image":"HannahOxebin", "slides":"2", "quote":""},
-		{"name":"John Panapasa", "image":"JohnPanapasa", "slides":"1", "quote":""},
-		{"name":"Mikayla Patrick", "image":"MikaylaPatrick", "slides":"2", "quote":""},
-		{"name":"Grady Payne", "image":"GradyPayne", "slides":"2", "quote":""},
-		{"name":"Alijah Pelletier", "image":"AlijahPelletier", "slides":"2", "quote":""},
-		{"name":"Michael Penner", "image":"MichaelPenner", "slides":"2", "quote":""},
-		{"name":"Keeley Peters", "image":"KeeleyPeters", "slides":"2", "quote":""},
-		{"name":"Shelby Pontes-Mercier", "image":"ShelbyPontes-Mercier", "slides":"2", "quote":""},
-		{"name":"Joel Raiche ", "image":"JoelRaiche", "slides":"2", "quote":""},
-		{"name":"Grayson Rawlyk", "image":"GraysonRawlyk", "slides":"2", "quote":""},
-		{"name":"Christopher Readman", "image":"ChristopherReadman", "slides":"2", "quote":""},
-		{"name":"Jeremy Readman", "image":"JeremyReadman", "slides":"2", "quote":""},
-		{"name":"Clarck Rivera", "image":"ClarckRivera", "slides":"1", "quote":""},
-		{"name":"Courtney Roberts", "image":"CourtneyRoberts", "slides":"2", "quote":""},
-		{"name":"Gavin Roberts", "image":"GavinRoberts", "slides":"2", "quote":""},
-		{"name":"Cameron Rose-Emel", "image":"CameronRose-Emel", "slides":"2", "quote":""},
-		{"name":"Brad Rowat", "image":"BradRowat", "slides":"2", "quote":""},
-		{"name":"Leighton Roy", "image":"LeightonRoy", "slides":"1", "quote":""},
-		{"name":"Braden Rumpf", "image":"BradenRumpf", "slides":"2", "quote":""},
-		{"name":"Caitlin Russell", "image":"CaitlinRussell", "slides":"2", "quote":""},
-		{"name":"Zachary Schell", "image":"ZacharySchell", "slides":"2", "quote":""},
-		{"name":"Danae Shein", "image":"DanaeShein", "slides":"2", "quote":""},
-		{"name":"Masen Slabaida", "image":"MasenSlabaida", "slides":"2", "quote":""},
-		{"name":"Cheyanne Smith", "image":"CheyanneSmith", "slides":"2", "quote":""},
-		{"name":"Crystal Smith", "image":"CrystalSmith", "slides":"2", "quote":""},
-		{"name":"Brennen Spence", "image":"BrennenSpence", "slides":"2", "quote":""},
-		{"name":"Keelie Stensrud", "image":"KeelieStensrud", "slides":"2", "quote":""},
-		{"name":"Chamique Stoney", "image":"ChamiqueStoney", "slides":"2", "quote":""},
-		{"name":"Tasana Sturge", "image":"TasanaSturge", "slides":"2", "quote":""},
-		{"name":"Ashlynn Swiftwolfe ", "image":"AshlynnSwiftwolfe", "slides":"1", "quote":""},
-		{"name":"Ashley Swistun", "image":"AshleySwistun", "slides":"2", "quote":""},
-		{"name":"Chase Taggart", "image":"ChaseTaggart", "slides":"2", "quote":""},
-		{"name":"Shayna Taylor", "image":"ShaynaTaylor", "slides":"2", "quote":""},
-		{"name":"Bailey Thibault", "image":"BaileyThibault", "slides":"1", "quote":""},
-		{"name":"Cole Thibault", "image":"ColeThibault", "slides":"1", "quote":""},
-		{"name":"Zamery Thomas-Opikokew", "image":"ZameryThomas-Opikokew", "slides":"1", "quote":""},
-		{"name":"Tyrell Tootoosis", "image":"TyrellTootoosis", "slides":"1", "quote":""},
-		{"name":"Jackson Turuk", "image":"JacksonTuruk", "slides":"1", "quote":""},
-		{"name":"Muhammad Usman", "image":"MuhammadUsman", "slides":"1", "quote":""},
-		{"name":"Makenna Vany", "image":"MakennaVany", "slides":"2", "quote":""},
-		{"name":"Nathan Vany", "image":"NathanVany", "slides":"2", "quote":""},
-		{"name":"Tristan Wallin", "image":"TristanWallin", "slides":"2", "quote":""},
-		{"name":"Minghao Wang", "image":"MinghaoWang", "slides":"2", "quote":""},
-		{"name":"Sontana Wapass", "image":"SontanaWapass", "slides":"1", "quote":""},
-		{"name":"Kaden Wappel", "image":"KadenWappel", "slides":"2", "quote":""},
-		{"name":"Madlyn Westwood", "image":"MadlynWestwood", "slides":"2", "quote":""},
-		{"name":"Danae Wolff", "image":"DanaeWolff", "slides":"2", "quote":""},
-		{"name":"Matthew Woloschuk", "image":"MatthewWoloschuk", "slides":"2", "quote":""},
-		{"name":"Reanna Wrench", "image":"ReannaWrench", "slides":"2", "quote":""},
-		{"name":"Catherine Zens", "image":"CatherineZens", "slides":"2", "quote":""}
+	"graduates": [{
+			"name": "Dummie Abdul",
+			"image": "DummieAbdul",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Graham Adamcryck",
+			"image": "GrahamAdamcryck",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Keegan Agema-Doiron",
+			"image": "KeeganAgema-Doiron",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Harold Alcantara",
+			"image": "HaroldAlcantara",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Jecamie Amos",
+			"image": "JecamieAmos",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Uthman Amusat",
+			"image": "UthmanAmusat",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Tayte Antoine",
+			"image": "TayteAntoine",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Melyna Bahler",
+			"image": "MelynaBahler",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Braden Baier",
+			"image": "BradenBaier",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Brianna Barth",
+			"image": "BriannaBarth",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Brooklyn Bartkewich",
+			"image": "BrooklynBartkewich",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Ethan Bartko",
+			"image": "EthanBartko",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Ferdinand Bezuidenhout",
+			"image": "FerdinandBezuidenhout",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Faith Bird",
+			"image": "FaithBird",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Darcy Black",
+			"image": "DarcyBlack",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Nicholas Black",
+			"image": "NicholasBlack",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Riley Black",
+			"image": "RileyBlack",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Parker Blais",
+			"image": "ParkerBlais",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Joseph Bowen",
+			"image": "JosephBowen",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Chloe Brown-Delainey",
+			"image": "ChloeBrown-Delainey",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Logan Bru",
+			"image": "LoganBru",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "A.J. Bueckert",
+			"image": "AJBueckert",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Madison Butler",
+			"image": "MadisonButler",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Alexandra Chmelnyk",
+			"image": "AlexandrChmelnyk",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Kiara Clarke",
+			"image": "KiaraClarke",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Bailey Cole",
+			"image": "BaileyCole",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Logan Cook",
+			"image": "LoganCook",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Jolene Cooke",
+			"image": "JoleneCooke",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Skyler Dimmick",
+			"image": "SkylerDimmick",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Adam Elefson",
+			"image": "AdamElefson",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Liam Elias",
+			"image": "LiamElias",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Ashlyn Elmer",
+			"image": "AshlynElmer",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Lexi Falcon",
+			"image": "LexiFalcon",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Luke Fennig",
+			"image": "LukeFennig",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Keanu Foulds",
+			"image": "KeanuFoulds",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Madisyn Gardiner",
+			"image": "MadisynGardiner",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Sheanta Gardypie",
+			"image": "SheantaGardypie",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Naomi Gartner",
+			"image": "NaomiGartner",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Tanner Gartner",
+			"image": "TannerGartner",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Brandon Girward",
+			"image": "BrandonGirward",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Charles Girward",
+			"image": "CharlesGirward",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Elle Goodstriker",
+			"image": "ElleGoodstriker",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Dustin Grasby",
+			"image": "DustinGrasby",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Kjersti Graupe",
+			"image": "KjerstiGraupe",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Cody Greening ",
+			"image": "CodyGreening",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Kaibree Head",
+			"image": "KaibreeHead",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Damon Herbel",
+			"image": "DamonHerbel",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Carlie Hornsby",
+			"image": "CarlieHornsby",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Mya Huber",
+			"image": "MyaHuber",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Dustin Jensen-Kress ",
+			"image": "DustinJensen-Kress",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Mariah Johansson",
+			"image": "MariahJohansson",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Drew Karlson",
+			"image": "DrewKarlson",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Colby Kellgren",
+			"image": "ColbyKellgren",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Scott Klippenstein",
+			"image": "ScottKlippenstein",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Corey Koliniak",
+			"image": "CoreyKoliniak",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Denis Kolosnjaji",
+			"image": "DenisKolosnjaji",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Ryleigh Kramer",
+			"image": "RyleighKramer",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Youngseo Kwon",
+			"image": "YoungseoKwon",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Madison Lafreniere",
+			"image": "MadisonLafreniere",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Hannah Lapawchuk",
+			"image": "HannahLapawchuk",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Chloe Lavallee",
+			"image": "ChloeLavallee",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Cheney Legacy",
+			"image": "CheneyLegacy",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Erik Loken",
+			"image": "ErikLoken",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Keltyn Lozowchuk",
+			"image": "KeltynLozowchuk",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Colten Macnaughton",
+			"image": "ColtenMacnaughton",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Ishita Mann",
+			"image": "IshitaMann",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Julia Marjoram",
+			"image": "JuliaMarjoram",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Neil Mata",
+			"image": "NeilMata",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Mason McDonald",
+			"image": "MasonMcDonald",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Brandt Mcmillan",
+			"image": "BrandtMcmillan",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Jodie Mcwatters",
+			"image": "JodieMcwatters",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Abagail Millard",
+			"image": "AbagailMillard",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Elizabeth Millard ",
+			"image": "ElizabethMillard",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Caelan Milley",
+			"image": "CaelanMilley",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Mckenna Mitchell",
+			"image": "MckennaMitchell",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Hadia Mohammad",
+			"image": "HadiaMohammad",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Jacob Nachtegaele",
+			"image": "JacobNachtegaele",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Connor Neave",
+			"image": "ConnorNeave",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Elishia Netmaker ",
+			"image": "ElishiaNetmaker",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Abbey Neufeld",
+			"image": "AbbeyNeufeld",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Kate Nichol",
+			"image": "KateNichol",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Haley Opikokew",
+			"image": "HaleyOpikokew",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Rory Ouellette",
+			"image": "RoryOuellette",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Hannah Oxebin",
+			"image": "HannahOxebin",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "John Panapasa",
+			"image": "JohnPanapasa",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Mikayla Patrick",
+			"image": "MikaylaPatrick",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Grady Payne",
+			"image": "GradyPayne",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Alijah Pelletier",
+			"image": "AlijahPelletier",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Michael Penner",
+			"image": "MichaelPenner",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Keeley Peters",
+			"image": "KeeleyPeters",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Shelby Pontes-Mercier",
+			"image": "ShelbyPontes-Mercier",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Joel Raiche ",
+			"image": "JoelRaiche",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Grayson Rawlyk",
+			"image": "GraysonRawlyk",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Christopher Readman",
+			"image": "ChristopherReadman",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Jeremy Readman",
+			"image": "JeremyReadman",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Clarck Rivera",
+			"image": "ClarckRivera",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Courtney Roberts",
+			"image": "CourtneyRoberts",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Gavin Roberts",
+			"image": "GavinRoberts",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Cameron Rose-Emel",
+			"image": "CameronRose-Emel",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Brad Rowat",
+			"image": "BradRowat",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Leighton Roy",
+			"image": "LeightonRoy",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Braden Rumpf",
+			"image": "BradenRumpf",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Caitlin Russell",
+			"image": "CaitlinRussell",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Zachary Schell",
+			"image": "ZacharySchell",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Danae Shein",
+			"image": "DanaeShein",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Masen Slabaida",
+			"image": "MasenSlabaida",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Cheyanne Smith",
+			"image": "CheyanneSmith",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Crystal Smith",
+			"image": "CrystalSmith",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Brennen Spence",
+			"image": "BrennenSpence",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Keelie Stensrud",
+			"image": "KeelieStensrud",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Chamique Stoney",
+			"image": "ChamiqueStoney",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Tasana Sturge",
+			"image": "TasanaSturge",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Ashlynn Swiftwolfe ",
+			"image": "AshlynnSwiftwolfe",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Ashley Swistun",
+			"image": "AshleySwistun",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Chase Taggart",
+			"image": "ChaseTaggart",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Shayna Taylor",
+			"image": "ShaynaTaylor",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Bailey Thibault",
+			"image": "BaileyThibault",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Cole Thibault",
+			"image": "ColeThibault",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Zamery Thomas-Opikokew",
+			"image": "ZameryThomas-Opikokew",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Tyrell Tootoosis",
+			"image": "TyrellTootoosis",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Jackson Turuk",
+			"image": "JacksonTuruk",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Muhammad Usman",
+			"image": "MuhammadUsman",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Makenna Vany",
+			"image": "MakennaVany",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Nathan Vany",
+			"image": "NathanVany",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Tristan Wallin",
+			"image": "TristanWallin",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Minghao Wang",
+			"image": "MinghaoWang",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Sontana Wapass",
+			"image": "SontanaWapass",
+			"slides": 1,
+			"quote": ""
+		},
+		{
+			"name": "Kaden Wappel",
+			"image": "KadenWappel",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Madlyn Westwood",
+			"image": "MadlynWestwood",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Danae Wolff",
+			"image": "DanaeWolff",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Matthew Woloschuk",
+			"image": "MatthewWoloschuk",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Reanna Wrench",
+			"image": "ReannaWrench",
+			"slides": 2,
+			"quote": ""
+		},
+		{
+			"name": "Catherine Zens",
+			"image": "CatherineZens",
+			"slides": 2,
+			"quote": ""
+		}
 	]
 }
-
-
